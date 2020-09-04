@@ -1,4 +1,6 @@
-# Download links are 
+# Download links are not exposed so must use selenium
+# actually not mb
+# deprecated
 
 from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
