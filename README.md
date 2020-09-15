@@ -1,5 +1,7 @@
 random rough notes
 
+jupyter notebook was a mistake
+
 ## Features
 
 ### Atainable
